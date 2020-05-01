@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="367.2px" height="130.7px" viewBox="0 0 367.2 130.7" style="enable-background:new 0 0 367.2 130.7;" xml:space="preserve"
+	>
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);fill:#DEB000;}
+	.st2{clip-path:url(#SVGID_2_);fill:#BDBDBD;}
+	.st3{clip-path:url(#SVGID_2_);}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'Poppins-SemiBold';}
+	.st6{font-size:47.443px;}
+	.st7{font-size:52.0278px;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="367.2" height="130.7"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st0" d="M89.3,129.2H6c-3.3,0-6-2.7-6-6V6c0-3.3,2.7-6,6-6h83.3c3.3,0,6,2.7,6,6v117.2
+		C95.3,126.5,92.6,129.2,89.3,129.2"/>
+	<rect x="5.5" y="8.6" class="st1" width="84.3" height="104.3"/>
+	<path class="st2" d="M52.4,121.1c0,2.6-2.1,4.8-4.8,4.8c-2.6,0-4.8-2.1-4.8-4.8c0-2.6,2.1-4.8,4.8-4.8
+		C50.3,116.3,52.4,118.4,52.4,121.1"/>
+	<g class="st3">
+		<text transform="matrix(1 0 0 1 112.1646 49.1111)" class="st4 st5 st6">Les Guides</text>
+	</g>
+	<g class="st3">
+		<text transform="matrix(1 0 0 1 112.1655 99.8855)" class="st4 st5 st7">Du Digital</text>
+	</g>
+	<path class="st0" d="M24.7,38.8c-0.6,0-1.2,0.5-1.2,1.2v36.9c0,0.6,0.5,1.2,1.2,1.2c11.2,0,23.1,4.6,23.1,4.6S59.7,78,70.9,78
+		c0.6,0,1.2-0.5,1.2-1.2V39.9c0-0.6-0.5-1.2-1.2-1.2c-10.6,0-20.9,3.7-23.1,4.5C45.6,42.5,35.3,38.8,24.7,38.8 M20.1,43.4
+		c-0.6,0-1.2,0.5-1.2,1.2v36.9c0,0.6,0.5,1.2,1.2,1.2h20c-4.3-1.1-10-2.3-15.4-2.3h-3.5V43.4H20.1z M74.3,43.4v36.9h-3.5
+		c-5.4,0-11.1,1.2-15.4,2.3h20c0.6,0,1.2-0.5,1.2-1.2V44.5c0-0.6-0.5-1.2-1.2-1.2H74.3z M47.8,51.4c0.6,0,1.2,0.5,1.2,1.2v3.5
+		c0,0.6-0.5,1.2-1.2,1.2c-0.6,0-1.2-0.5-1.2-1.2v-3.5C46.6,52,47.2,51.4,47.8,51.4 M47.8,67.6c0.6,0,1.2,0.5,1.2,1.2v3.5
+		c0,0.6-0.5,1.2-1.2,1.2c-0.6,0-1.2-0.5-1.2-1.2v-3.5C46.6,68.1,47.2,67.6,47.8,67.6"/>
+</g>
+</svg>

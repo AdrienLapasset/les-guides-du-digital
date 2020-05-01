@@ -1,0 +1,223 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+.custom-color--yellow .landing__cpf {
+  background-color: #deb000;
+}
+
+.custom-color--yellow .icon-chevron {
+  fill: #deb000;
+}
+
+.custom-color--yellow .logo-lgdd .st1 {
+  fill: #deb000;
+}
+
+.custom-color--red .landing__cpf {
+  background-color: red;
+}
+
+.custom-color--red .icon-chevron {
+  fill: red;
+}
+
+.custom-color--red .logo-lgdd .st1 {
+  fill: red;
+}
+
+.custom-color--green .landing__cpf {
+  background-color: green;
+}
+
+.custom-color--green .icon-chevron {
+  fill: green;
+}
+
+.custom-color--green .logo-lgdd .st1 {
+  fill: green;
+}
+
+.logo-lgdd {
+  width: 160px;
+}
+
+.header .navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 15px 0;
+}
+
+.header .navbar .navbar-toggler {
+  border: none;
+}
+
+.header .navbar .navbar-nav .nav-link {
+  color: white;
+  font-size: 18px;
+  margin-left: 30px;
+  font-weight: 700;
+}
+
+.landing {
+  color: white;
+  background-size: cover;
+  background-position: center;
+  font-size: 18px;
+}
+
+.landing .blur {
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+}
+
+.landing__cpf {
+  padding: 5px 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.landing h1 {
+  font-size: 35px;
+}
+
+.landing ul {
+  margin-bottom: 30px;
+}
+
+.landing ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.landing ul li > * {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+
+.landing ul li img {
+  height: 28px;
+  position: relative;
+  bottom: 3px;
+  margin-right: 5px;
+}
+
+.body {
+  margin-top: 30px;
+  font-size: 16px;
+}
+
+.body__info {
+  max-width: 470px;
+}
+
+.body__info ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 20px;
+}
+
+.body__info ul li .icon-chevron {
+  height: 27px;
+  margin-right: 15px;
+}
+
+.form {
+  position: relative;
+  color: black;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 14px;
+  -webkit-box-shadow: 0px 30px 80px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 30px 80px rgba(0, 0, 0, 0.2);
+  margin-bottom: 50px;
+}
+
+.form h2 {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.form img {
+  width: 190px;
+  margin: 20px 0 30px;
+}
+
+.form form .form-control {
+  font-weight: 400;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.form form .btn {
+  background-color: #132547;
+  border: none;
+  padding: 3px 10px;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.footer {
+  position: relative;
+  font-size: 12px;
+  color: #a7a7a7;
+  font-weight: 400;
+  margin-bottom: 100px;
+}
+
+.footer p:first-child {
+  border-bottom: 2px solid rgba(167, 167, 167, 0.1);
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.dowload-btn {
+  background-color: #ff2f64;
+  border: none;
+  font-size: 25px;
+  margin-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: left;
+  line-height: 1;
+  padding: 10px 15px;
+}
+
+.dowload-btn i {
+  margin-right: 10px;
+}
+
+@media (min-width: 992px) {
+  .logo-lgdd {
+    width: 180px;
+  }
+  .form-container {
+    height: 430px;
+  }
+  .form {
+    top: -440px;
+    padding: 40px 60px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
