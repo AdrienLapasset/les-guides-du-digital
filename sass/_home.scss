@@ -1,29 +1,3 @@
-@mixin custom-color($color) {
-  .landing__cpf {
-    background-color: $color;
-  }
-  .icon-chevron {
-    fill: $color;
-  }
-  .logo-lgdd {
-    .st1 {
-      fill: $color;
-    }
-  }
-}
-
-.custom-color {
-  &--yellow {
-    @include custom-color($yellow);
-  }
-  &--red {
-    @include custom-color(red);
-  }
-  &--green {
-    @include custom-color(green);
-  }
-}
-
 .logo-lgdd {
   width: 160px;
 }

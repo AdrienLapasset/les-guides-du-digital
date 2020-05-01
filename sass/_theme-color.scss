@@ -1,0 +1,27 @@
+$yellow: #deb000;
+
+@mixin theme-color($color) {
+  .landing__cpf {
+    background-color: $color;
+  }
+  .icon-chevron {
+    fill: $color;
+  }
+  .logo-lgdd {
+    .st1 {
+      fill: $color;
+    }
+  }
+}
+
+.theme-color {
+  &--yellow {
+    @include theme-color($yellow);
+  }
+  &--red {
+    @include theme-color(red);
+  }
+  &--green {
+    @include theme-color(green);
+  }
+}

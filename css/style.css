@@ -12,42 +12,6 @@ li {
   list-style-type: none;
 }
 
-.custom-color--yellow .landing__cpf {
-  background-color: #deb000;
-}
-
-.custom-color--yellow .icon-chevron {
-  fill: #deb000;
-}
-
-.custom-color--yellow .logo-lgdd .st1 {
-  fill: #deb000;
-}
-
-.custom-color--red .landing__cpf {
-  background-color: red;
-}
-
-.custom-color--red .icon-chevron {
-  fill: red;
-}
-
-.custom-color--red .logo-lgdd .st1 {
-  fill: red;
-}
-
-.custom-color--green .landing__cpf {
-  background-color: green;
-}
-
-.custom-color--green .icon-chevron {
-  fill: green;
-}
-
-.custom-color--green .logo-lgdd .st1 {
-  fill: green;
-}
-
 .logo-lgdd {
   width: 160px;
 }
@@ -213,6 +177,42 @@ li {
 
 .dowload-btn i {
   margin-right: 10px;
+}
+
+.theme-color--yellow .landing__cpf {
+  background-color: #deb000;
+}
+
+.theme-color--yellow .icon-chevron {
+  fill: #deb000;
+}
+
+.theme-color--yellow .logo-lgdd .st1 {
+  fill: #deb000;
+}
+
+.theme-color--red .landing__cpf {
+  background-color: red;
+}
+
+.theme-color--red .icon-chevron {
+  fill: red;
+}
+
+.theme-color--red .logo-lgdd .st1 {
+  fill: red;
+}
+
+.theme-color--green .landing__cpf {
+  background-color: green;
+}
+
+.theme-color--green .icon-chevron {
+  fill: green;
+}
+
+.theme-color--green .logo-lgdd .st1 {
+  fill: green;
 }
 
 @media (min-width: 576px) {
