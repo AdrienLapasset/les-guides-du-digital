@@ -1,14 +1,3 @@
-@media (min-width: 576px) {
-  .blur-bg-container {
-    height: 676px;
-  }
-}
-
-@media (min-width: 768px) {
-  .blur-bg-container {
-    height: 620px;
-  }
-}
 @media (min-width: 992px) {
   .logo-lgdd {
     width: 180px;
@@ -16,12 +5,7 @@
   .form {
     padding: 40px 60px;
   }
-  .blur-bg-container {
-    height: 584px;
-  }
-}
-@media (min-width: 1200px) {
-  .blur-bg-container {
-    height: 550px;
+  .form-col {
+    margin-top: -400px;
   }
 }

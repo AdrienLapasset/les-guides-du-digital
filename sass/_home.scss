@@ -2,21 +2,9 @@
   width: 160px;
 }
 
-.blur-bg-container {
-  position: absolute;
-  height: 700px;
-  top: -10px;
-  left: -10px;
-  right: -10px;
-  overflow: hidden;
-}
-.blur-bg {
-  filter: blur(10px);
-  width: 100%;
-  height: 100%;
+.background-img {
   background-size: cover;
   background-position: center;
-  transform: scale(1.1);
 }
 
 .header {
